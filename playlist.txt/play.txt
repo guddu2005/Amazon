@@ -1,0 +1,589 @@
+Playlists IDS:----
+
+Today's Hits: 1249888261
+Rap Caviar: 8152970362
+Classical Essentials: 6983670414
+Rock Classics: 6100838084
+Workout Mix: 2370711424
+Throwback Hits: 908874995
+Jazz Vibes: 7487691442
+Indie Essentials: 3454786123
+Electronic Dance: 5143604442
+Pop Party: 1738564812
+Hip-Hop Classics: 4827588202
+Chill House: 9657231901
+Country Hits: 4364728204
+Reggae Roots: 7216812403
+90's Pop: 8150296234
+Latin Hits: 2897371005
+K-Pop Essentials: 7598174406
+Blues Legends: 5624012378
+Acoustic Chill: 6154012837
+Festival Bangers: 3017432264
+Relax & Unwind: 6166354584
+Party Time: 3227130024
+Road Trip: 5419324926
+Summer Vibes: 9874653728
+Rock Ballads: 8947539205
+Focus Music: 7654321809
+Happy Hits: 3948756120
+Motivational Mix: 9876543210
+Epic Movie Scores: 1827364510
+Lounge Music: 8475639201
+Chill & Relax: 9823456789
+Feel Good: 1324567890
+Dinner Party: 5432109876
+Jazz Classics: 6543210987
+Pop Hits: 7654321098
+Workout Pump: 8765432109
+Morning Motivation: 9876543211
+Dance Hits: 1098765432
+Reggae Essentials: 2109876543
+Hip-Hop Party: 3210987654
+Indie Chill: 4321098765
+Summer BBQ: 5432109876
+Acoustic Favorites: 6543210987
+Love Songs: 7654321098
+Classic Rock: 8765432109
+Electronic Essentials: 9876543210
+Country Roads: 1098765432
+Latin Dance: 2109876543
+Blues Essentials: 3210987654
+Metal Classics: 4321098765
+Piano Classics: 5432109876
+80's Hits: 6543210987
+90's Rock: 7654321098
+2000's Pop: 8765432109
+Festival Anthems: 9876543210
+Chill Out: 1098765432
+R&B Hits: 2109876543
+Soft Rock: 3210987654
+Folk Favorites: 4321098765
+Movie Themes: 5432109876
+Gaming Music: 6543210987
+Happy Pop: 7654321098
+Smooth Jazz: 8765432109
+Epic Soundtracks: 9876543210
+Tropical House: 1098765432
+Afrobeats: 2109876543
+Lofi Hip-Hop: 3210987654
+Classic Soul: 4321098765
+Old School Hip-Hop: 5432109876
+French Pop: 6543210987
+Italian Classics: 7654321098
+German Hits: 8765432109
+Spanish Hits: 9876543210
+Brazilian Beats: 1098765432
+Caribbean Vibes: 2109876543
+Bollywood Hits: 3210987654
+K-Pop Hits: 4321098765
+J-Pop Essentials: 5432109876
+Celtic Music: 6543210987
+Meditation Music: 7654321098
+
+
+
+infos IDS:---
+Artist: 27 (Daft Punk)
+
+Artist: 412 (David Guetta)
+
+Artist: 13 (Eminem)
+
+Artist: 111 (The Beatles)
+
+Artist: 144 (Ed Sheeran)
+
+Artist: 112 (Bruno Mars)
+
+Artist: 214 (Coldplay)
+
+Artist: 123 (Adele)
+
+Artist: 434 (Shakira)
+
+Artist: 457 (Taylor Swift)
+
+Album: 302127 (Random Access Memories - Daft Punk)
+
+Album: 103248 (Nothing But the Beat - David Guetta)
+
+Album: 103248 (The Marshall Mathers LP - Eminem)
+
+Album: 104788 (Abbey Road - The Beatles)
+
+Album: 263628 (Divide - Ed Sheeran)
+
+Album: 301775 (Doo-Wops & Hooligans - Bruno Mars)
+
+Album: 302127 (A Rush of Blood to the Head - Coldplay)
+
+Album: 272632 (25 - Adele)
+
+Album: 657532 (Laundry Service - Shakira)
+
+Album: 717645 (1989 - Taylor Swift)
+
+Track: 3135556 (Get Lucky - Daft Punk)
+
+Track: 1109731 (Titanium - David Guetta)
+
+Track: 916424 (Lose Yourself - Eminem)
+
+Track: 910172 (Hey Jude - The Beatles)
+
+Track: 1053242 (Shape of You - Ed Sheeran)
+
+Track: 2837167 (Uptown Funk - Bruno Mars)
+
+Track: 1758317 (Fix You - Coldplay)
+
+Track: 1347258 (Hello - Adele)
+
+Track: 1538324 (Hips Don't Lie - Shakira)
+
+Track: 1456823 (Shake It Off - Taylor Swift)
+
+Playlist: 908622995 (Editor's Picks)
+
+Playlist: 3155776842 (Top Hits)
+
+Playlist: 3023845642 (Chill Hits)
+
+Playlist: 1249888261 (Today's Hits)
+
+Playlist: 8152970362 (Rap Caviar)
+
+Playlist: 6983670414 (Classical Essentials)
+
+Playlist: 6100838084 (Rock Classics)
+
+Playlist: 2370711424 (Workout Mix)
+
+Playlist: 908874995 (Throwback Hits)
+
+Playlist: 7487691442 (Jazz Vibes)
+
+Genre: 0 (All)
+
+Genre: 132 (Pop)
+
+Genre: 116 (Rock)
+
+Genre: 197 (Hip-Hop/Rap)
+
+Genre: 152 (Electronic)
+
+Genre: 85 (Jazz)
+
+Genre: 81 (Classical)
+
+Genre: 17 (Metal)
+
+Genre: 95 (Reggae)
+
+Genre: 173 (Country)
+
+
+Artist IDS:-----
+
+Daft Punk: 27
+
+David Guetta: 412
+
+Eminem: 13
+
+The Beatles: 111
+
+Ed Sheeran: 144
+
+Bruno Mars: 112
+
+Coldplay: 214
+
+Adele: 123
+
+Shakira: 434
+
+Taylor Swift: 457
+
+Drake: 246791
+
+Rihanna: 564
+
+Kanye West: 2888
+
+Beyoncé: 145
+
+Justin Bieber: 355
+
+Maroon 5: 5259962
+
+Lady Gaga: 75491
+
+Ariana Grande: 5353932
+
+The Weeknd: 4050205
+
+Billie Eilish: 9635624
+
+Post Malone: 9631532
+
+Kendrick Lamar: 368
+
+Bruno Mars: 112
+
+Imagine Dragons: 416239
+
+Katy Perry: 3317
+
+Selena Gomez: 688
+
+Dua Lipa: 246791
+
+Halsey: 4962947
+
+Sia: 956
+
+Shawn Mendes: 45295
+
+Camila Cabello: 6445658
+
+Sam Smith: 255
+
+Nicki Minaj: 423
+
+J Balvin: 56178
+
+Travis Scott: 161
+
+Cardi B: 586
+
+Harry Styles: 12179
+
+Doja Cat: 239302
+
+Miley Cyrus: 352657
+
+Jason Derulo: 2722
+
+Luis Fonsi: 30063
+
+Jennifer Lopez: 1029
+
+Daddy Yankee: 207
+
+Ozuna: 149
+
+Bad Bunny: 554
+
+Maluma: 643
+
+Blackpink: 442
+
+BTS: 191404
+
+EXO: 126491
+
+TWICE: 568
+
+Monsta X: 102464
+
+NCT 127: 646
+
+Stray Kids: 305458
+
+Red Velvet: 4325
+
+GOT7: 356201
+
+Seventeen: 12398
+
+TXT: 234108
+
+ATEEZ: 907438
+
+MAMAMOO: 564833
+
+ITZY: 98147
+
+GFRIEND: 439291
+
+DAY6: 76394
+
+Zayn: 17328
+
+Niall Horan: 104592
+
+Louis Tomlinson: 135768
+
+Liam Payne: 193829
+
+Little Mix: 444248
+
+Fifth Harmony: 347
+
+One Direction: 1425
+
+Jonas Brothers: 1537
+
+5 Seconds of Summer: 4963
+
+Pentatonix: 48599
+
+Shawn Mendes: 1940
+
+Justin Timberlake: 194
+
+Elton John: 98
+
+Prince: 5962
+
+Michael Jackson: 235
+
+Whitney Houston: 1234
+
+Madonna: 1426
+
+Celine Dion: 251
+
+Alicia Keys: 147
+
+Stevie Wonder: 74
+
+Aretha Franklin: 372
+
+Tina Turner: 109
+
+Diana Ross: 312
+
+Marvin Gaye: 257
+
+Lionel Richie: 478
+
+Ray Charles: 512
+
+James Brown: 612
+
+Bill Withers: 115
+
+Barry White: 217
+
+Smokey Robinson: 345
+
+Sam Cooke: 478
+
+Otis Redding: 569
+
+Al Green: 612
+
+Etta James: 710
+
+Patti LaBelle: 840
+
+Chaka Khan: 940
+
+Gladys Knight: 1034
+
+Anita Baker: 1125
+
+Editorial IDS:----
+Pop Hits: 140
+
+Rock Classics: 237
+
+Chill Vibes: 415
+
+Hip-Hop Essentials: 122
+
+Dance Party: 225
+
+Jazz Classics: 184
+
+Indie Favorites: 303
+
+R&B Hits: 231
+
+Electronic Essentials: 422
+
+Classical Masterpieces: 357
+
+Summer Hits: 476
+
+Top 40: 189
+
+Workout Mix: 232
+
+Acoustic Chill: 312
+
+Focus Music: 134
+
+Weekend Vibes: 408
+
+Throwback Hits: 153
+
+Road Trip: 218
+
+Dinner Party: 347
+
+Romantic Music: 467
+
+Festive Cheer: 198
+
+Relaxing Sounds: 278
+
+Party Anthems: 309
+
+Mood Boost: 395
+
+Sleep Aid: 123
+
+Cooking Music: 145
+
+Happy Hits: 221
+
+Chill Out Lounge: 411
+
+Soul Classics: 278
+
+Morning Coffee: 329
+
+Urban Hits: 354
+
+Latin Heat: 239
+
+Blues Essentials: 187
+
+Epic Hits: 421
+
+K-Pop Essentials: 145
+
+French Touch: 214
+
+German Top Hits: 342
+
+Italian Classics: 277
+
+Mandopop Stars: 169
+
+Spanish Favorites: 291
+
+Brazilian Beats: 375
+
+Afrobeat Vibes: 274
+
+Middle Eastern Tunes: 284
+
+Bollywood Hits: 391
+
+Celtic Music: 183
+
+Tropical Rhythms: 402
+
+Lofi Beats: 423
+
+Chillwave: 396
+
+New Age Music: 354
+
+Deep House: 304
+
+Trance Classics: 287
+
+Techno Pulse: 313
+
+Drum & Bass: 410
+
+Dubstep Drops: 309
+
+Synthwave: 291
+
+Folk Favorites: 334
+
+Indie Pop: 312
+
+Alternative Rock: 278
+
+Hard Rock Hits: 325
+
+Metal Classics: 201
+
+Grunge Hits: 138
+
+Punk Rock: 146
+
+Guitar Heroes: 204
+
+Vocal Jazz: 283
+
+Swing Era: 239
+
+Big Band Jazz: 187
+
+Bossa Nova: 275
+
+Salsa Beats: 293
+
+Tango Classics: 309
+
+Flamenco Passion: 236
+
+Mariachi Magic: 298
+
+Fado Melodies: 272
+
+Reggaeton Vibes: 359
+
+Soca Party: 217
+
+Steel Drum Classics: 299
+
+Cumbia Hits: 307
+
+Ranchera Favorites: 142
+
+Bolero Romance: 324
+
+Opera Gems: 189
+
+Orchestral Hits: 210
+
+Symphonic Music: 261
+
+Baroque Beauty: 336
+
+Romantic Era: 149
+
+Classical Guitar: 372
+
+Solo Piano: 258
+
+Orchestral Classics: 339
+
+Chamber Music: 413
+
+Electronic Chill: 244
+
+Ambient Soundscapes: 301
+
+Meditative Music: 399
+
+Relaxing Piano: 266
+
+Soundtrack Essentials: 373
+
+Film Scores: 194
+
+Video Game Music: 266
+
+Theatrical Scores: 275
+
+Cinematic Music: 189
+
+Epic Soundtracks: 211
+
+Fantasy Themes: 389
+
+Sci-Fi Sounds: 343
+
+Adventure Music: 229
