@@ -5,7 +5,7 @@ import 'react-responsive-carousel/lib/styles/carousel.min.css';
 const SlideComponent = () => {
     return (
         <Carousel autoPlay infiniteLoop showThumbs={false} interval={3000} >
-            <div className='h-96'>
+            <div className='h-full'>
                 <img src="https://m.media-amazon.com/images/G/31/img22/WLA/2024/AugART_24/Teaser/Bigbets/Non_headsets/ezgif-3-bbdcd86cc7._CB567612615_.gif" alt=""  className='h-96'/>
             </div>
             <div>
